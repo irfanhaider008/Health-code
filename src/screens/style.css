@@ -1,0 +1,22 @@
+
+
+.imageDiv{
+    width:50vw;
+    height: 45vh;
+    margin-left:10vw;}
+
+.firstImg{
+    background-position: 'top';
+    background-size : 'cover';
+    background-repeat:  'no-repeat';
+}
+.multiselectContainer{
+      background-color:white;
+      border-color: white;
+      color: rgb(15, 15, 15);
+
+    }
+
+   
+     
+
